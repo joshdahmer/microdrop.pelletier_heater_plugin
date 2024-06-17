@@ -1,0 +1,3 @@
+package_name: microdrop.pelletier-heater-plugin
+plugin_name: pelletier_heater_plugin
+version: "0.1"
